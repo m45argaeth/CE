@@ -127,7 +127,8 @@ export const PLAYGROUNDS: Playground[] = [
     id: "hallucination",
     name: "Hallucination Explorer",
     universe: "ebn",
-    status: "wip",
+    url: "https://he-playground.vercel.app",
+    status: "live",
   },
   {
     id: "compression",
@@ -140,13 +141,15 @@ export const PLAYGROUNDS: Playground[] = [
     id: "packet",
     name: "Internet Packet Explorer",
     universe: "ebn",
-    status: "wip",
+    url: "https://ipe-playground.vercel.app",
+    status: "live",
   },
   {
     id: "human-vs-ai",
     name: "Human vs AI Explorer",
     universe: "ebn",
-    status: "wip",
+    url: "https://hvsai-playground.vercel.app",
+    status: "live",
   },
   {
     id: "bd",
